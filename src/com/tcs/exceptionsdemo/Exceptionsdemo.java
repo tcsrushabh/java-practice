@@ -3,7 +3,8 @@ package com.tcs.exceptionsdemo;
 public class Exceptionsdemo {
 	public static void main(String[] args){
 		try {
-			Demo2();
+			//Demo2();
+			Demo1();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
