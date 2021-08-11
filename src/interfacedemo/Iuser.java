@@ -1,5 +1,5 @@
 package interfacedemo;
 
-public interface Iuser extends Staff {
+public interface Iuser extends IStaff {
 
 }

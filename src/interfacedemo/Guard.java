@@ -1,6 +1,6 @@
 package interfacedemo;
 
-public class Guard implements Staff{
+public class Guard implements IStaff{
 	@Override
 	public void work() {
 		System.out.println("Guard is working");
