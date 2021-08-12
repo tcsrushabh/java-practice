@@ -1,4 +1,4 @@
-package statickeyword;
+package com.tcs.statickeyword;
 
 public class StaticBlockDemo {
 	private static int age =10;

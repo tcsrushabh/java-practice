@@ -1,4 +1,4 @@
-package interfacedemo;
+package com.tcs.interfacedemo;
 
 public class HR implements IStaff {
 

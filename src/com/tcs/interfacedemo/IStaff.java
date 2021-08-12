@@ -1,4 +1,4 @@
-package interfacedemo;
+package com.tcs.interfacedemo;
 
 public interface IStaff {
 	final int count =10;
